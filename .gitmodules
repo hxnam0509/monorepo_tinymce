@@ -1,0 +1,6 @@
+[submodule "packages/tinymce"]
+	path = packages/tinymce
+	url = git@github.com:hxnam0509/tinymce.git
+[submodule "packages/snooker"]
+	path = packages/snooker
+	url = git@github.com:hxnam0509/snooker.git
