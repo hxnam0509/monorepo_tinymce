@@ -1,6 +1,0 @@
-[submodule "tinymce"]
-	path = tinymce
-	url = git@github.com:hxnam0509/tinymce.git
-[submodule "snooker"]
-	path = snooker
-	url = git@github.com:hxnam0509/snooker.git
